@@ -1,0 +1,16 @@
+.buttons_top{
+   margin-right: 10px;
+    justify-content: space-between;
+}
+.home_b{
+    background-color: green;
+}
+.back_b{
+  background-color: grey;  
+}
+.subcat_list{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-decoration: none;
+}
